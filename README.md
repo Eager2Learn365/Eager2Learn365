@@ -1,6 +1,9 @@
-## Hi there, my name is Abdo - aka Eager2Learn365 and Welcome to my profile 👋
+## Hi there, I'm Abdo - aka Eager2Learn365 and Welcome to my profile 👋
 
 I am a passionate software developer with a knack for crafting innovative solutions that drive results. Recently graduated with a computer science degree and limited experience in the industry, I've had the privilege of working on a wide range of projects, from mobile apps to enterprise software, and everything in between. My expertise spans Python, Java, C++, F+ and I'm always looking for opportunities to learn and grow.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEager2Learn365anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Eager2Learn365/Eager2Learn365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
