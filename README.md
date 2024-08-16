@@ -2,7 +2,7 @@
 
 I am a passionate software developer with a knack for crafting innovative solutions that drive results. Recently graduated with a computer science degree and limited experience in the industry, I've had the privilege of working on a wide range of projects, from mobile apps to enterprise software, and everything in between. My expertise spans Python, Java, C++, F+ and I'm always looking for opportunities to learn and grow.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiEager2Learn365anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eager2Learn365)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
