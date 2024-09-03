@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdo Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Birmingham, United Kingdom</h3>
 
-- 🔭 I’m currently working on building NFT and clothing websites [AbzProg](file:///Users/abz/Desktop/Responsive%20NFT%20Website/index.html)
+- 🔭 I’m currently working on building NFT website [AbzProg] and clothing site (file:///Users/abz/Desktop/Responsive%20NFT%20Website/index.html)
 
 - 📫 How to reach me **abuaysha270121@gmail.com**
 
