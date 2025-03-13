@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Abdo Mohamed</h1>
+<h1 align="center">Hi 👋, my name is Abdo Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Birmingham, United Kingdom</h3>
 
 - 🔭 I’m currently working on building NFT website [AbzProg] and clothing site (file:///Users/abz/Desktop/Responsive%20NFT%20Website/index.html)
